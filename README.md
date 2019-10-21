@@ -1,4 +1,4 @@
-Rails-Graphql-Starter  
+Rails-Graphql-Starter
 
 ## Sublime Text
 
@@ -6,7 +6,7 @@ Rails-Graphql-Starter  
 
 - [Package Control](https://packagecontrol.io/installation)
 - [BeautifyRuby](https://github.com/CraigWilliams/BeautifyRuby)
-- 
+-
 
 ## Commands
 
@@ -43,3 +43,14 @@ rake routes
 ## Other tools
 
 - [Sublime Merge](https://www.sublimemerge.com/)
+- [Graphql App](https://github.com/skevy/graphiql-app)
+
+## Ref
+
+- [Tutorial for Rails Graphql](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query)
+
+- [Graphql Batch](https://github.com/Shopify/graphql-batch)
+
+## Problem
+
+- 檔名錯誤導致無法 load 正確的 class 內容 (mutaion <--- mutation)
